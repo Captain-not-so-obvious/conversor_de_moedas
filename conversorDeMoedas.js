@@ -19,7 +19,3 @@ function ConverterParaEuro() {
   var valorConvertidoEuro = "O resultado em real é R$ " + valorRealNumerico;
   elementoValorEuro.innerHTML = valorConvertidoEuro;
 }
-// 1 - adicionar outras moedas para converter.
-// 2 - conversor de quilômetros para anos luz e verificar o tempo que demora para ir de um estrela a outra.
-// 3 - conversor de temperatura entre fahrenheits, kelvins e celsius.
-// 4 - adicionar uma linha ao projeto desenvolvido para que apareça o valor em bitcoins.
